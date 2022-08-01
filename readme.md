@@ -104,5 +104,5 @@ ____
 4. [Finding Eigenvalues and Eigenvectors : 2 x 2 Matrix Example](https://www.youtube.com/watch?v=IdsV0RaC9jM)
 5. [Алгоритм Фрюхтермана-Рейнгольда](http://pco.iis.nsk.su/wega/index.php/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%A4%D1%80%D1%8E%D1%85%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B0-%D0%A0%D0%B5%D0%B9%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0)
 6. [Intuitions on L1 and L2 Regularisation](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261)
-7. [https://dic.academic.ru/dic.nsf/ruwiki/1099923](https://dic.academic.ru/dic.nsf/ruwiki/1099923)
+7. [Полином Чебышева](https://dic.academic.ru/dic.nsf/ruwiki/1099923)
 8. [Benchmark Image Classification on MNIST](https://paperswithcode.com/sota/image-classification-on-mnist?metric=Accuracy)
